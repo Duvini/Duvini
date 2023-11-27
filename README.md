@@ -1,4 +1,4 @@
-![MasterHead](https://content.red-badger.com/hs-fs/hubfs/Github_Blog%20(1)%20(1).gif?width=2500&height=500&name=Github_Blog%20(1)%20(1).gif)
+<img src="https://images.app.goo.gl/YV9hH9aaWKCK4ta4A" alt="Second Image" width="1000" height="420">
 
 
 
