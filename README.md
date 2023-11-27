@@ -1,4 +1,4 @@
-<img src="https://images.app.goo.gl/YV9hH9aaWKCK4ta4A" alt="Second Image" width="1000" height="420">
+<img src="https://images.app.goo.gl/HisRo2qAmTixuG2D8" alt="Second Image" width="1000" height="420">
 
 
 
