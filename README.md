@@ -1,4 +1,4 @@
-![MasterHead](https://content.red-badger.com/hs-fs/hubfs/Github_Blog%20(1)%20(1).gif?width=1500&height=1000&name=Github_Blog%20(1)%20(1).gif)
+![MasterHead](https://content.red-badger.com/hs-fs/hubfs/Github_Blog%20(1)%20(1).gif?width=2500&height=500&name=Github_Blog%20(1)%20(1).gif)
 
 
 
