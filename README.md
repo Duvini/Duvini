@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/r1uHTuAkyLhimUHj8)](https://d.io)
+[![MasterHead](https://images.app.goo.gl/r1uHTuAkyLhimUHj8)]
 
 <h1 align="center">Hi 👋, I'm Duvini Ranaweera</h1>
 <h3 align="center">Passionate Learner</h3>
