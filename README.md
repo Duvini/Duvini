@@ -1,4 +1,5 @@
-![MasterHead](https://content.red-badger.com/hs-fs/hubfs/Github_Blog%20(1)%20(1).gif?width=1800&height=1014&name=Github_Blog%20(1)%20(1).gif)
+![MasterHead](https://content.red-badger.com/hs-fs/hubfs/Github_Blog%20(1)%20(1).gif?width=1500&height=1000&name=Github_Blog%20(1)%20(1).gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Duvini Ranaweera</h1>
