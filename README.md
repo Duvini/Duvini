@@ -1,4 +1,5 @@
-![MasterHead](https://images.app.goo.gl/HisRo2qAmTixuG2D8/hs-fs/hubfs/Github_Blog%20(1)%20(1).gif?width=1000&height=420&name=Github_Blog%20(1)%20(1).gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 
 
