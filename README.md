@@ -1,5 +1,5 @@
-[[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](http://[![MasterHead]([https:/https://images.app.goo.gl/HisRo2qAmTixuG2D8](https://content.red-badger.com/hs-fs/hubfs/Github_Blog%20(1)%20(1).gif?width=1800&height=1014&name=Github_Blog%20(1)%20(1).gif))](https://Duvini.github.io)
-)
+[![MasterHead]([https:/https://images.app.goo.gl/HisRo2qAmTixuG2D8](https://content.red-badger.com/hs-fs/hubfs/Github_Blog%20(1)%20(1).gif?width=1800&height=1014&name=Github_Blog%20(1)%20(1).gif))](https://Duvini.github.io)
+
 
 
 
