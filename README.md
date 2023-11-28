@@ -1,4 +1,3 @@
-[![MasterHead](https://content.red-badger.com/hs-fs/hubfs/Github_Blog%20(1)%20(1).gif?width=1000&height=504&name=Github_Blog%20(1)%20(1).gif)](https://Duvini.github.io)
 
 <h1 align="center">Hi 👋, I'm Duvini Ranaweera</h1>
 <h3 align="center">Passionate Learner</h3>
