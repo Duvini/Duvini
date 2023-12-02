@@ -1,12 +1,7 @@
 
 
-
-
-
-
-<h1 align="center">Hi 👋, I'm Duvini Ranaweera</h1>
 ![Passionate Learner](https://github.com/Duvini/Duvini/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
-
+##Hi 👋, I'm Duvini Ranaweera
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duvini&label=Profile%20views&color=0e75b6&style=flat" alt="duvini" /> </p>
 
