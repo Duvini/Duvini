@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Duvini](https://github.com/Duvini)
 
-- 📝 I regularly write articles on [https://medium.com/@ranaweeraduvini02/about](https://medium.com/@ranaweeraduvini02/about)
+- 📝 I regularly write articles on [https://medium.com/@ranaweeraduvini02](https://medium.com/@ranaweeraduvini02)
 
 - 💬 Ask me about **Java**
 
