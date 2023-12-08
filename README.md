@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/duvini-ranaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duvini-ranaweera" height="30" width="40" /></a>
 <a href="https://instagram.com/duvi_ni.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duvi_ni.z" height="30" width="40" /></a>
-<a href="https://medium.com/ranaweeraduvini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ranaweeraduvini" height="30" width="40" /></a>
+<a href="https://medium.com/@ranaweeraduvini02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ranaweeraduvini" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ranaweeraduvini1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranaweeraduvini1" height="30" width="40" /></a>
 </p>
 
