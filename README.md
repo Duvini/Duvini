@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **MERN PROJECT**
 
-- 🌱 I’m currently learning **MERN,AI/ML**
+- 🌱 I’m currently learning **MERN,AI/ML,Kotlin,Android**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Duvini](https://github.com/Duvini)
 
