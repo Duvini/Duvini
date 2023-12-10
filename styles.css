@@ -1,0 +1,67 @@
+/* style.css */
+
+/* Center the header image */
+p img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Style the header text */
+  h1, h3 {
+    text-align: center;
+    color: #0366d6; /* GitHub link color */
+  }
+  
+  /* Style the profile view counter */
+  p img[src*="komarev"] {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the GitHub trophy shelf */
+  p img[src*="github-profile-trophy"] {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the Twitter badge */
+  p img[src*="shields.io"] {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the animated text */
+  #passionate-learner {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+  
+  #passionate-learner::after {
+    content: '🚀'; /* Add your desired animated character */
+    position: absolute;
+    top: 0;
+    left: 0;
+    animation: animate 1s infinite;
+  }
+  
+  @keyframes animate {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-20px);
+    }
+    60% {
+      transform: translateY(-10px);
+    }
+  }
+  
+  /* Style the footer */
+  p:last-child {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #586069; /* GitHub text color */
+  }
+  
