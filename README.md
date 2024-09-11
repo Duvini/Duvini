@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duvini&label=Profile%20views&color=0e75b6&style=flat" alt="duvini" /> </p>
 
-- 🔭 I’m currently working on **MERN & Kotlin**
+- 🔭 I’m currently working on **ML,DL,Python**
 
-- 🌱 I’m currently learning **MERN,AI/ML,Kotlin,Android**
+- 🌱 I’m currently learning **AWS,Azure,ML,DL,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Duvini](https://github.com/Duvini)
 
 - 📝 I regularly write articles on [https://medium.com/@ranaweeraduvini02](https://medium.com/@ranaweeraduvini02)
 
-- 💬 Ask me about **MERN, Kotlin,SQL,**
+- 💬 Ask me about **MERN, Kotlin,SQL,ML,DL**
 
 - 📫 How to reach me **ranaweeraduvini02@gmail.com**
 
